@@ -1,0 +1,10 @@
+[INFO ][20160328 13:57:59,261][RedisTest:30] wusc=WuShuicheng
+[INFO ][20160328 13:57:59,264][RedisTest:34] wusc=WuShuicheng2
+[INFO ][20160328 13:59:09,226][AbstractApplicationContext:510] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4503636: startup date [Mon Mar 28 13:59:09 CST 2016]; root of context hierarchy
+[INFO ][20160328 13:59:09,288][XmlBeanDefinitionReader:315] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20160328 13:59:09,492][XmlBeanDefinitionReader:315] Loading XML bean definitions from class path resource [spring/spring-redis.xml]
+[INFO ][20160328 13:59:09,620][DefaultListableBeanFactory:598] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@74b6607a: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.aop.config.internalAutoProxyCreator,jedisPoolConfig,shardedJedisPool,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+[INFO ][20160328 13:59:09,972][RedisSpringTest:36] wusc=WuShuicheng
+[INFO ][20160328 13:59:09,973][RedisSpringTest:40] wusc=WuShuicheng2
+[INFO ][20160328 13:59:09,974][RedisSpringTest:44] wusc=null
+[INFO ][20160328 13:59:09,974][RedisSpringTest:51] ===>System.exit
